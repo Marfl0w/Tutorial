@@ -7,5 +7,5 @@ cin >> a >> b;
 cout << "сумма = " << a+b << endl;
 cout << "разница = " << a-b << endl;
 cout << "ділення = " << a/b << endl;
-cout << "множення = " << a*
+cout << "множення = " << a*b<<endl;
 } 
